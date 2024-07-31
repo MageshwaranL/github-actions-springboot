@@ -6,7 +6,7 @@
 # separate terms of service, privacy policy, and support
 # documentation.
 
-name: CICD Workflow with SpringBoot
+name: CICD Workflow with SpringBoot and Github
 
 on:
   push:
